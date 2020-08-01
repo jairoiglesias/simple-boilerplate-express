@@ -1,0 +1,12 @@
+node_modules
+enderecos.csv
+enderecos.txt
+lat_long.csv
+test.js
+testMaybe.js
+testOSM.js
+parseTXT.js
+places-v2.json
+place.json
+testGeodoer.js
+GeologZenvia.pem
